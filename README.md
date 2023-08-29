@@ -1,2 +1,2 @@
 # LGMVIP-Web-Task-1
-to dol list
+to do list
